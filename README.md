@@ -32,7 +32,7 @@ Lancer: nodemon server
 Développement d'une application web nommée "Piquante" dans laquelle les utilisateurs pourront ajouter leurs sauces préférées et liker ou disliker les sauces proposées par les autres utilisateurs.
 Le but est de créer le backend de l'application, le frontend étant déjà codé et fourni.<br />
 
-<b>Remarques sur l'évaluation</b>
+<h3>Remarques sur l'évaluation</h3>
 
 1. Implémenter un modèle logique de données conformément à la réglementation
 
@@ -54,7 +54,7 @@ LIvrables au complet et présence d'un README dans le repo
 La création du fichier .env est une bonne chose (attention dans la vraie vie à ne pas le commiter)
 Code propre, bien indenté
 Utilisation maline des middlewares (password + rateLimiter)
-Un travail de fond autour de la sécurité
+Un travail de fond autour de la sécurité<br /><br />
 Axes d'amélioration :
 
 Avoir un versionning plus régulier
